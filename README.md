@@ -12,6 +12,7 @@ This project was developed for the Prayagraj Mahakumbh Hackathon 2025, with a fo
 
 ## Installation
 1. Clone the repository:
+   ```bash
    git clone https://github.com/Kanishk3813/Mahakumbh_25.git
    
 2. Install dependencies:
