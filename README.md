@@ -4,6 +4,8 @@
 
 This project was developed for the Prayagraj Mahakumbh Hackathon 2025, with a focus on crowd surveillance. In large-scale events like the Mahakumbh, ensuring the safety and security of attendees is paramount. Our system utilizes advanced computer vision techniques to monitor crowd behavior, detect anomalies, and identify potential hazards in real-time. By providing event organizers and security personnel with valuable insights, we aim to enhance crowd management and improve overall safety measures.
 
+Output Video Playlist : [Youtube](https://youtube.com/playlist?list=PL_p9CpexhfCxqkV2flruCmzwDl6ZONVO7&si=m2m8rkeKjHl-dS_7)
+
 ## Features
 
 - **Crowd Counting:** Accurately counts heads within crowded spaces, aiding event organizers and security personnel in crowd management. This feature provides real-time data on crowd density, helping organizers make informed decisions to prevent overcrowding and ensure the safety of attendees.
