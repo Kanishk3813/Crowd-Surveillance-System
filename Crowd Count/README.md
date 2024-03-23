@@ -52,9 +52,7 @@ Download the pretrained model from [Baidu-Disk](https://pan.baidu.com/s/1SaPppYr
 
 # Quickly test
 
-```
 
-```
 Download Dataset and Model  
 Generate FIDT map ground-truth  
 
@@ -82,7 +80,8 @@ python test.py --test_dataset ShanghaiA --pre model_best.pth  --visual True
 python video_demo.py --pre model_best.pth  --video_path demo.mp4
 (the output video will in ./demo.avi; By default, the video size is reduced by two times for inference. You can change the input size in the video_demo.py)
 ```
-Visiting [bilibili](https://www.bilibili.com/video/BV17v41187fs?from=search&seid=12553003238808495181) or [Youtube](https://youtu.be/YdH6YpHywM4) to watch the video demonstration. The original demo video can be downloaded from [Baidu-Disk](https://pan.baidu.com/s/1-PD2no_1VPBV-tEa7uLObA), passed: cebh
+Demo video
+[YOUTUBE]https://youtu.be/wCOnOzBjlXQ?si=6Ju1A2lPd2c_xcjs
 
 More config information is provided in config.py
 # Evaluation localization performance
