@@ -37,6 +37,3 @@ Contributions are welcome! If you'd like to contribute to the Dark Pattern Buste
 4. Push your changes to your forked repository (`git push origin feature/your-feature-name`).
 5. Create a pull request detailing your changes and their purpose.
 
-
-**Disclaimer:** The Dark Pattern Buster Chrome extension is a project developed for educational and awareness purposes and is not affiliated with any commercial entities.
-
