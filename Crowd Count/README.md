@@ -1,6 +1,6 @@
 
 # Focal Inverse Distance Transform Map
-[[Project page](https://dk-liang.github.io/FIDTM/)] [[paper](https://arxiv.org/abs/2102.07925)]   
+[[paper](https://arxiv.org/abs/2102.07925)]   
 An officical implementation of "Focal Inverse Distance Transform Map for Crowd Localization" (Accepted by IEEE TMM).   
 We propose a novel label named Focal Inverse Distance Transform (FIDT) map,  which can represent each head location information.
 
